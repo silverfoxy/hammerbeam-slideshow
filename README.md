@@ -53,6 +53,6 @@ For example:
 
 ```conf
 # urchin.conf
-CONFIG_CUSTOM_ANIMATION_SPEED=300000 # 300 second total duration
-# 30 pictures, so 10 seconds per picture
+CONFIG_CUSTOM_ANIMATION_SPEED=9000000 # 9000 second total duration
+# 30 pictures, so 300 seconds (5m) per picture
 ```
